@@ -11,7 +11,7 @@ export default async function Home() {
   return (
     <div className="min-h-screen bg-neutral-50 font-sans text-neutral-900">
       <main className="mx-auto max-w-3xl px-6 py-16 sm:px-8">
-        <h1 className="text-3xl font-bold tracking-tight">Acme Learning</h1>
+        <h1 className="text-3xl font-bold tracking-tight">StartHub</h1>
         <p className="mt-2 text-lg text-neutral-600">
           Browse our courses and start learning today.
         </p>

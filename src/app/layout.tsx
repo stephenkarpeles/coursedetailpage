@@ -17,10 +17,10 @@ export const metadata: Metadata = {
     process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:3000"
   ),
   title: {
-    default: "Acme Learning",
-    template: "%s | Acme Learning",
+    default: "StartHub",
+    template: "%s | StartHub",
   },
-  description: "Learn with Acme Learning courses.",
+  description: "Learn with StartHub courses.",
 };
 
 export default function RootLayout({

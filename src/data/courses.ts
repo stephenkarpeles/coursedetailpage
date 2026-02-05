@@ -9,8 +9,8 @@ export const courses: Course[] = [
     description:
       "Learn advanced React patterns including compound components, render props, custom hooks, and performance optimization. Build scalable, maintainable applications with TypeScript and modern tooling.",
     provider: {
-      name: "Acme Learning",
-      url: "https://acme-learning.example.com",
+      name: "StartHub",
+      url: "https://www.starthub.academy/",
     },
     image: "/course-advanced-react-patterns.jpg",
     duration: "6 weeks",
@@ -24,8 +24,8 @@ export const courses: Course[] = [
     description:
       "Deep dive into Next.js App Router, Server Components, streaming, and data fetching. Covers dynamic metadata, layouts, and building SEO-friendly, high-performance web applications.",
     provider: {
-      name: "Acme Learning",
-      url: "https://acme-learning.example.com",
+      name: "StartHub",
+      url: "https://www.starthub.academy/",
     },
     image: "/course-next-router-server-components.jpg",
     duration: "4 weeks",
